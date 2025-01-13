@@ -1,6 +1,5 @@
 package dev.practica.cristian_benalcazar_taller.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
